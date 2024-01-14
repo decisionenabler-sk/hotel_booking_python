@@ -1,0 +1,82 @@
+{
+  "bookings": [
+    {
+      "booking_id": 1,
+      "guest_name": "John Doe",
+      "check_in_date": "2022-01-10",
+      "check_out_date": "2022-01-15",
+      "room_type": "Standard",
+      "total_cost": 500,
+      "additional_services": ["Wi-Fi", "Breakfast"],
+      "feedback": {
+        "rating": 4.5,
+        "comments": "Enjoyed the stay, great service!"
+      }
+    },
+    {
+      "booking_id": 2,
+      "guest_name": "Jane Smith",
+      "check_in_date": "2022-02-20",
+      "check_out_date": "2022-02-25",
+      "room_type": "Deluxe",
+      "total_cost": 800,
+      "additional_services": ["Spa", "Airport Transfer"],
+      "feedback": {
+        "rating": 5,
+        "comments": "Exceptional service and amenities!"
+      }
+    },
+    {
+      "booking_id": 3,
+      "guest_name": "Bob Johnson",
+      "check_in_date": "2022-03-05",
+      "check_out_date": "2022-03-10",
+      "room_type": "Standard",
+      "total_cost": 550,
+      "additional_services": ["Gym Access"],
+      "feedback": {
+        "rating": 4,
+        "comments": "Good value for money."
+      }
+    },
+    {
+      "booking_id": 4,
+      "guest_name": "Alice Brown",
+      "check_in_date": "2022-04-15",
+      "check_out_date": "2022-04-20",
+      "room_type": "Suite",
+      "total_cost": 1200,
+      "additional_services": ["Dinner Package", "Private Tour"],
+      "feedback": {
+        "rating": 4.8,
+        "comments": "Luxurious stay with excellent services!"
+      }
+    },
+    {
+      "booking_id": 5,
+      "guest_name": "Charlie White",
+      "check_in_date": "2022-05-10",
+      "check_out_date": "2022-05-15",
+      "room_type": "Deluxe",
+      "total_cost": 750,
+      "additional_services": ["Spa", "Breakfast", "Airport Transfer"],
+      "feedback": {
+        "rating": 4.2,
+        "comments": "Nice experience, loved the breakfast!"
+      }
+    },
+    {
+      "booking_id": 6,
+      "guest_name": "Eva Green",
+      "check_in_date": "2022-06-20",
+      "check_out_date": "2022-06-25",
+      "room_type": "Suite",
+      "total_cost": 1100,
+      "additional_services": ["Dinner Package", "Private Tour", "Spa"],
+      "feedback": {
+        "rating": 4.9,
+        "comments": "Amazing stay, will come again!"
+      }
+    }
+  ]
+}
