@@ -83,12 +83,25 @@
       "guest_name": "Eva Chen",
       "check_in_date": "2023-09-25",
       "check_out_date": "2023-10-01",
-      "room_type": "Suite",
+      "room_type": "Deluxe",
       "total_cost": 1500,
       "additional_services": ["Dinner Package", "Private Tour", "Spa", "Breakfast"],
       "feedback": {
         "rating": 4.5,
         "comments": "My goto place to stay during holidays."
+      }
+    },
+    {
+      "booking_id": 8,
+      "guest_name": "David Lee",
+      "check_in_date": "2023-09-28",
+      "check_out_date": "2023-10-05",
+      "room_type": "Deluxe",
+      "total_cost": 900,
+      "additional_services": ["Breakfast", "Airport Transfer"],
+      "feedback": {
+        "rating": 4.2,
+        "comments": "Enjoyed the stay, but some room service issues."
       }
     }
   ]
