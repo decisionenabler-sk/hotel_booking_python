@@ -103,6 +103,19 @@
         "rating": 4.2,
         "comments": "Enjoyed the stay, but some room service issues."
       }
+    },
+    {
+      "booking_id": 9,
+      "guest_name": "Jane Smith",
+      "check_in_date": "2023-12-20",
+      "check_out_date": "2023-12-25",
+      "room_type": "Suite",
+      "total_cost": 2000,
+      "additional_services": ["Spa", "Airport Transfer", "Breakfast"],
+      "feedback": {
+        "rating": 5,
+        "comments": "Very pleasant stay with the upgraded room."
+      }
     }
   ]
 }
